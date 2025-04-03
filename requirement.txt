@@ -1,0 +1,5 @@
+streamlit
+pymupdf  # For PDF text extraction
+docx2txt  # For DOCX text extraction
+google-generativeai  # Google Gemini AI API
+
